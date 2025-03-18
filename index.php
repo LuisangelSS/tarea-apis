@@ -13,7 +13,7 @@ plantilla::inicio();
             <figure class="image is-128x128 is-inline-block">
                 <img class="is-rounded" src="foto/yo.jpg" alt="Foto de Luis Ángel Sánchez">
             </figure>
-            <h2 class="title is-4">Luis Ángel Sánchez</h2>
+            <h2 class="title is-4">Luis Ángel Sánchez Sánchez</h2>
         </div>
 
         <div class="content">
